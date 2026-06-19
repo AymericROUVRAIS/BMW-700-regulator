@@ -1,4 +1,6 @@
 regulator.s*
+regulator.b*
 !regulator.sch
+!regulator.brd
 !regulator.epf
 untitled.*
